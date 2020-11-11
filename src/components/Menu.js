@@ -27,15 +27,7 @@ const Menu = withStyles(styles)(props => {
           <Button className={classes.menuButton}>{link.name}</Button>
         </Link>
       ))}
-      <a
-        href="https://github.com/bluepeter/gatsby-material-ui-business-starter"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
-        <IconButton className={classes.menuButton}>
-          <Github />
-        </IconButton>
-      </a>
+      
     </>
   );
 });

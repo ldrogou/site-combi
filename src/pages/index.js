@@ -4,7 +4,6 @@ import { graphql, Link } from "gatsby";
 import SEO from "../components/SEO";
 import Card from "../components/Card";
 import Page from "../components/Page";
-import HomeFeatures from "../components/HomeFeatures";
 import Button from "@material-ui/core/Button";
 import Carousel from "../components/Carousel";
 import Avatar from "@material-ui/core/Avatar";
@@ -19,7 +18,7 @@ const styles = () => ({
 const Home = props => {
   const products = props.data.allMarkdownRemark.edges;
   return (
-    <Page title="Gatsby Material UI Business Starter">
+    <Page title="Les superbes Combinaisons">
       <SEO title="Home">
         <meta
           content="Beautiful Gatsby Material UI Business Starter. Tiny code. Well organized. Ready to customize and go."
@@ -27,7 +26,6 @@ const Home = props => {
         />
       </SEO>
 
-      <HomeFeatures />
       <Card
         action={
           <Button

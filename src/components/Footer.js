@@ -3,7 +3,9 @@ import { StaticQuery, graphql } from "gatsby";
 import Divider from "@material-ui/core/Divider";
 import Typography from "@material-ui/core/Typography";
 import Hidden from "@material-ui/core/Hidden";
+import HomeFeatures from "../components/HomeFeatures";
 import withStyles from "@material-ui/styles/withStyles";
+import Card from "../components/Card";
 
 const styles = theme => ({
   divider: {
@@ -30,6 +32,9 @@ const Footer = withStyles(styles)(props => {
   } = props;
   return (
     <>
+      <Card>
+        <HomeFeatures />
+      </Card>
       <Divider className={classes.divider} />
       <footer className={classes.footer} id="footer">
         <span>
