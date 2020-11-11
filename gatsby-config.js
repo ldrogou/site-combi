@@ -8,7 +8,7 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: "Produits",
+        name: "Produits RCH",
         link: "/products",
       },
     ],

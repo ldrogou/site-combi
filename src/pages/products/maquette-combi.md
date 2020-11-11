@@ -1,13 +1,14 @@
 ---
-path: "/products/headphones"
-title: "Hallucinogenic Headphones"
+path: "/products/maquette-combi"
+title: "maquette combinaison"
 date: 2018-11-18T12:33:46+10:00
-image: "malte-wingen-381988-unsplash.jpg"
+image: "maquette-combi.jpg"
 ---
 
-Dreamcatcher hoodie fashion axe quis helvetica tilde. Id meditation try-hard
-paleo distillery dolore laboris hell of af biodiesel iPhone subway tile green
-juice truffaut.
+Chambray offal wayfarers hoodie everyday carry photo booth, narwhal schlitz put
+a bird on it tumblr. Art party mustache williamsburg laborum roof party anim,
+gluten-free meh authentic. Tempor selvage craft beer vice occupy migas offal
+chambray fanny pack unicorn authentic cray.
 
 ## Shabby chic fixie subway tile in bespoke disrupt
 

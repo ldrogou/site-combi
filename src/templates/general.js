@@ -12,7 +12,7 @@ import withStyles from "@material-ui/styles/withStyles";
 
 const styles = {
   cardMedia: {
-    height: "200px",
+    height: "700px",
   },
 };
 

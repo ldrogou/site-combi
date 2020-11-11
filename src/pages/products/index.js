@@ -8,7 +8,7 @@ import List from "../../components/List";
 const Products = props => {
   const products = props.data.allMarkdownRemark.edges;
   return (
-    <Page title="Produits">
+    <Page title="Produits RCH">
       <SEO title="Produits" />
       <List items={products} />
     </Page>

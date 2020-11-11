@@ -18,7 +18,7 @@ const styles = () => ({
 const Home = props => {
   const products = props.data.allMarkdownRemark.edges;
   return (
-    <Page title="Les superbes Combinaisons">
+    <Page title="Combinaisons RCH">
       <SEO title="Home">
         <meta
           content="Beautiful Gatsby Material UI Business Starter. Tiny code. Well organized. Ready to customize and go."
@@ -35,7 +35,7 @@ const Home = props => {
             to="/products"
             variant="contained"
           >
-            View All Products
+           Tous les produits 
           </Button>
         }
         avatar={
@@ -44,7 +44,7 @@ const Home = props => {
           </Avatar>
         }
         style={{ minHeight: 523 }}
-        title="Our Products"
+        title="Nos Produits"
       >
         <Carousel items={products} />
       </Card>
