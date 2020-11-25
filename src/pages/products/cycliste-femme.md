@@ -1,5 +1,5 @@
 ---
-path: "/products/veste"
+path: "/products/cycliste-femme"
 title: "Veste windtex demi-saison"
 date: 2018-11-18T12:33:46+10:00
 image: "cycliste-femme.jpg"
