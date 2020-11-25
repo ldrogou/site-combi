@@ -93,7 +93,7 @@ class Carousel extends React.Component {
                 onClick={this.handleBack}
                 size="small"
               >
-                Back
+                Précédent
               </Button>
             }
             nextButton={
@@ -102,7 +102,7 @@ class Carousel extends React.Component {
                 onClick={this.handleNext}
                 size="small"
               >
-                Next
+                Suivant
               </Button>
             }
             position="static"

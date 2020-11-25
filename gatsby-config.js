@@ -4,7 +4,7 @@ module.exports = {
     title: "combinaison rch",
     contact: {
       phone: "00-00-00-00",
-      email: "rch@gmail.com",
+      email: "rch.rollerclubherblinois@gmail.com",
     },
     menuLinks: [
       {

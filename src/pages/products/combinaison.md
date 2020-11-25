@@ -12,7 +12,8 @@ Tarif : 48.84 €
 coupe anatomique en lycra 210 gr
 
 Manches et dos en Lycra "Matrix" (plus élastique et aéré)
-Col ouvert et zip securit
+Col ouvert et zip securit 
+
 En option :
-   - impression du numéro de sossard sur les cuisses et le dos
+   - impression du numéro de dossard sur les cuisses et le dos
    - 3 poches à l'arrière
