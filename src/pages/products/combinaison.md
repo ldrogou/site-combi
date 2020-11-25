@@ -7,7 +7,7 @@ image: "combinaison.jpg"
 
 Ref DSX 1722
 
-Tarif : 48.84 €
+Tarif : **48.84 €**
 
 coupe anatomique en lycra 210 gr
 

@@ -7,7 +7,7 @@ image: "combi-aero.jpg"
 
 Ref DSX 1722
 
-Tarif : 58.68 €
+Tarif : **58.68 €**
 
 coupe anatomique en lycra "strip ligné"
 

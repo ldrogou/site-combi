@@ -46,7 +46,7 @@ const List = props => {
                 <Typography component="h2" gutterBottom variant="h5">
                   <Link to={path}>{title}</Link>
                 </Typography>
-                <Typography component="p">{excerpt}</Typography>
+                <Typography align="center" component="p">{excerpt}</Typography>
               </CardContent>
             </Card>
           </Grid>
