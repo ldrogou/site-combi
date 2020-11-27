@@ -1,7 +1,7 @@
 ---
 path: "/products/aero"
 title: "Combinaison roller Aerospeed Manches Courtes"
-date: 2018-11-18T12:33:46+10:00
+date: 2020-11-18T12:33:46+10:00
 image: "combi-aero.jpg"
 ---
 

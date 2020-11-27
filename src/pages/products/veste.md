@@ -1,7 +1,7 @@
 ---
 path: "/products/veste"
 title: "Veste windtex demi-saison"
-date: 2018-11-18T12:33:46+10:00
+date: 2020-09-18T12:33:46+10:00
 image: "veste.jpg"
 ---
 

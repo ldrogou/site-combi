@@ -9,6 +9,8 @@ import Carousel from "../components/Carousel";
 import Avatar from "@material-ui/core/Avatar";
 import { Gift } from "mdi-material-ui";
 import withStyles from "@material-ui/styles/withStyles";
+import Typography from "@material-ui/core/Typography";
+import { CardContent } from "@material-ui/core";
 
 const styles = () => ({
   root: {
@@ -19,6 +21,25 @@ const Home = props => {
   const products = props.data.allMarkdownRemark.edges;
   return (
     <Page title="Combinaisons RCH">
+      <Card>
+        <CardContent>
+      <Typography component="p" gutterBottom variant="p">
+
+      Le club dispose depuis fin septembre de nouvelles combinaisons.<br/> 
+Comme les saisons précédentes, les combinaisons (uniquement manches courtes) sont disponibles à la location au prix de 15€ pour la saison.<br/>
+Nous vous offrons la possibilité, si vous le souhaitez, de commander vos équipements individuels aux couleurs du RCH.<br/>
+Nous avons sélectionné dans le catalogue DSX les produits qui sont susceptibles de vous interesser.<br/>
+Vous trouverez dans ce document :
+<ul>
+   <li>les produits que nous proposons à l'achat</li>
+   <li>les prix unitaires TTC</li>
+   <li>le design club (soit les "vraies photos" pour les combis MC, les vestes et les zippés, soit les maquettes DSX ou les photos catalogue</li>
+   <li>lien vers le googleform vous permettant de passer vos commandes</li>
+</ul>
+Le club n'a pas prévu d'acheter un gros stock de vestes. Pour autant, nous comprenons que vous préfereriez les louer. Si vous êtes interessés, merci de completer la rubrique dédiée dans le google form.<br/>
+      </Typography>
+      </CardContent>
+      </Card>
       <SEO title="Home">
         <meta
           content="Beautiful Gatsby Material UI Business Starter. Tiny code. Well organized. Ready to customize and go."
