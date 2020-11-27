@@ -7,15 +7,17 @@ image: "combi-aero.jpg"
 
 Ref DSX 1722
 
-Tarif : **58.68 €**
+Tarif : **60,60 €**
 
-coupe anatomique en lycra "strip ligné"
+Coupe anatomique en lycra "strip ligné"
 
-zip securit
-nouveaux tours de cuisses
+Zip securit
+Nouveaux tours de cuisses
 
-finition des manches en silicone
+Finition des manches en silicone
 
 En option :
-   - impression du numéro de sossard sur les cuisses (et le dos ?)
+   - impression du numéro de dossard sur les cuisses et le dos : **9,60 €**
+
+
  

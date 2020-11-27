@@ -7,7 +7,7 @@ image: "cycliste-homme.jpg"
 
 Ref DSX 1801A 
 
-Tarif : **26,90 €**
+Tarif : **33,30 €**
 
 Maillot en tissu coolmax de qualité supérieure. Coté latéraux en tissu "time out"
 

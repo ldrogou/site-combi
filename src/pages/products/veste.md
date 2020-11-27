@@ -7,12 +7,12 @@ image: "veste.jpg"
 
 Ref DSX 1810M
 
-Tarif : 52,56 €
+Tarif : **53,40 €**
 
 Face et manches en "windtek light" et arrière en "wintetex"
 
 Trois poches arrières + 1 quatrième zippée
 
-zip sécurit
+Zip sécurit
 
-bandes phosporescentes dans le dos
+Bandes phosporescentes dans le dos

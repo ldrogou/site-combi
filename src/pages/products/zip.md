@@ -7,7 +7,7 @@ image: "zip-rch.jpg"
 
 Ref DSX 2123B
 
-Tarif : 45,00 €
+Tarif : **45,00 €**
 
 Collant d'échauffement en matière "super roubaix" 
 avec zip sur toute la longueur des jambes
