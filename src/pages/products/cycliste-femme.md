@@ -17,4 +17,4 @@ Col ouvert
 Pas d'élastique à la taille
 
 Fermeture securit invisible
-3 poches systémiques dans le dos ?
+3 poches dans le dos

@@ -5,7 +5,7 @@ date: 2020-11-18T12:33:46+10:00
 image: "combi-aero.jpg"
 ---
 
-Ref DSX 1722
+Ref DSX R2602
 
 Tarif : **60,60 €**
 

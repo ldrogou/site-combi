@@ -14,4 +14,4 @@ Maillot en tissu coolmax de qualité supérieure. Coté latéraux en tissu "time
 Bande élastiquée à la taille
 Fermeture securit invisible
 
-3 poches systémiques dans le dos ?
+3 poches dans le dos
