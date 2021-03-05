@@ -41,7 +41,7 @@ Nous ne disposons pas de visuel pour tous les produits. Les maillots de cyclisme
 
 Le club n'a pas prévu d'acheter un gros stock de vestes. Pour autant, nous comprenons que vous préfereriez les louer. Si vous êtes interessés, merci de completer la rubrique dédiée dans le google form.<br/><br/>
 
-Le catalogue DSX est disponible <a href="https://">ici connard</a>. Si vous y trouvez un article qui vous interesse, vous pouvez nous envoyer un mail à rch.rollerclubherblinois@gmail.com. Nous pourrons vous fournir un tarif et commander l'article (uniquement si nous avons une commande d'au moins 6 pièces d'une autre référence).
+Le catalogue DSX est disponible <a href="https://www.diffusport.fr/index.php?lg=fr&page=OUTILS&sp=21">ici connard</a>. Si vous y trouvez un article qui vous interesse, vous pouvez nous envoyer un mail à rch.rollerclubherblinois@gmail.com. Nous pourrons vous fournir un tarif et commander l'article (uniquement si nous avons une commande d'au moins 6 pièces d'une autre référence).
 
 <br/>
       </Typography>
