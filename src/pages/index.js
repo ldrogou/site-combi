@@ -34,14 +34,14 @@ Vous trouverez sur cette page :
 <ul>
    <li>les produits que nous proposons à l'achat</li>
    <li>les prix unitaires TTC</li>
-   <li>le design club (soit les "vraies photos" pour les combis MC, les vestes et les zippés, soit les maquettes DSX ou les photos catalogue</li>
-   <li>lien vers le googleform vous permettant de passer vos commandes</li>
+   <li>le design club (soit les "vraies photos" pour les combis manches courtes, les vestes et les zippés, soit les maquettes DSX ou les photos catalogue</li>
+   <li>lien vers le googleform vous permettant de passer vos commandes (en cliquant sur le bouton "commande")</li>
 </ul>
 Nous ne disposons pas de visuel pour tous les produits. Les maillots de cyclisme auront le même design que le haut de la combinaison manches courtes. Pour les combinaisons manches longues, le design des manches sera identique à celui de la veste.<br/><br/>
 
 Le club n'a pas prévu d'acheter un gros stock de vestes. Pour autant, nous comprenons que vous préfereriez les louer. Si vous êtes interessés, merci de completer la rubrique dédiée dans le google form.<br/><br/>
 
-Le catalogue DSX est disponible <a href="https://www.diffusport.fr/index.php?lg=fr&page=OUTILS&sp=21">ici connard</a>. Si vous y trouvez un article qui vous interesse, vous pouvez nous envoyer un mail à rch.rollerclubherblinois@gmail.com. Nous pourrons vous fournir un tarif et commander l'article (uniquement si nous avons une commande d'au moins 6 pièces d'une autre référence).
+Le catalogue DSX est disponible <a href="https://www.diffusport.fr/index.php?lg=fr&page=OUTILS&sp=21">ici </a>. Si vous y trouvez un article qui vous interesse, vous pouvez nous envoyer un mail à rch.rollerclubherblinois@gmail.com. Nous pourrons vous fournir un tarif et commander l'article (uniquement si nous avons une commande d'au moins 6 pièces d'une autre référence).
 
 <br/>
       </Typography>
