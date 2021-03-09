@@ -39,7 +39,7 @@ const HomeFeatures = props => {
             color="secondary"
             variant="contained"
           >
-            <a href="https://docs.google.com/forms/d/1uk24c_EDTbf6SVuzgGpLUgtHnaU-CBhKlw21OI3tCw0/prefill">Commande</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUJ3UQKPN0L-CEKoX9PxjdxiF3iw1Flp7VHE5Er9pSwQs7eg/viewform?usp=sf_link">Commande</a>
           </Button> 
     </Grid>
   );
